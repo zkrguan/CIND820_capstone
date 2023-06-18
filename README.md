@@ -18,12 +18,12 @@ Conclusion and suggestions
 
 **/root**
 
-|________data(contains raw data and cleaned data)
+    |________data(contains raw data and cleaned data)
 
-|________notebooks (source code for each stage on jupiter note book)
+    |________notebooks (source code for each stage on jupiter note book)
 
-|________reports (submissions made so far)
+    |________reports (submissions made so far)
 
-|________scripts(helper functions, util functions)
+    |________scripts(helper functions, util functions)
 
-|________README file
+    |________README file
